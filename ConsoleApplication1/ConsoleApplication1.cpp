@@ -5,7 +5,7 @@ import std.core;
 
 int main()
 {
-    std::cout << "Hello World Robotics!\n";
+    std::cout << "Hello World CPP 20!\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
